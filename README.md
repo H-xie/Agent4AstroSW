@@ -1,4 +1,7 @@
-A repository for the camera calibration refactoring workflow, including the original notebook source, a modular Python package implementation, and generated verification/result documents.
+This repository provides Agents definitions and supplements for the paper submmited to *Astronomy and Computing*.
+
+[![DOI](https://zenodo.org/badge/1291135738.svg)](https://doi.org/10.5281/zenodo.22089273)
+
 
 ## Repository Layout
 
