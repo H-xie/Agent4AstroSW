@@ -1,13 +1,6 @@
 ---
 name: run-astro-tests
 description: Runs pytest for the astronomy package and specifically checks for Astropy unit/quantity warnings and WCS errors.
-parameters:
-  properties:
-    target_dir:
-      type: string
-      description: The relative directory path containing the test files to run.
-  required:
-    - target_dir
 ---
 
 # Action Intention
