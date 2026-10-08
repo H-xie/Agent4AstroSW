@@ -1,6 +1,10 @@
 This repository provides Agents definitions and supplements for the paper submmited to *Astronomy and Computing*.
 
-[![DOI](https://zenodo.org/badge/1291135738.svg)](https://doi.org/10.5281/zenodo.22089273)
+[![DOI](https://zenodo.org/badge/1291135738.svg)](https://doi.org/10.5281/zenodo.22089273) [![elsevier](https://img.shields.io/badge/Astronomy_and_Computing-10.1016%2Fj.ascom.2026.101184-FF6C00?style=flat&logo=elsevier)](https://doi.org/10.1016/j.ascom.2026.101184)
+
+
+
+
 
 
 ## Repository Layout
@@ -87,6 +91,16 @@ python verify_refactoring.py
   - sample/camera_calibration/README.md
 - Generated reports are available in:
   - sample/result/
+ 
+## Star History
+
+<a href="https://www.star-history.com/?repos=h-xie%2Fagent4astrosw&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=h-xie/agent4astrosw&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=h-xie/agent4astrosw&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=h-xie/agent4astrosw&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ## License
 
